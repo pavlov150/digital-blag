@@ -7,7 +7,7 @@ require "include/header.php";
 				<div class="wrapper"> 
 					<h1>КОНТАКТЫ</h1>
 					
-					<p>Контакты666: <a href="mailto:pavlov150@outlook.com">pavlov150@outlook.com</a>, Skype: pavlov15046, тел. 8-914-538-54-68, 38-54-68. Работаем без выходных.</p>
+					<p>Контакты: <a href="mailto:pavlov150@outlook.com">pavlov150@outlook.com</a>, Skype: pavlov15046, тел. 8-914-538-54-68, 38-54-68. Работаем без выходных.</p>
 		
 									<br />
 
