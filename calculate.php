@@ -14,7 +14,7 @@ require "include/header.php";
             <option value="0">Не выбрано</option>
             <option value="2.5">Оцифровка без монтажа</option>
 			<option value="3">Оцифровка с монтажом</option>
-			<option value="6">Оцифровка кассет с плохим качеством записи</option>
+			<option value="776">Оцифровка кассет с плохим качеством записи</option>
 
         </select><br/><br/>
          <div>Выберите носитель: <select class="form_style2" onchange="calc()" id="DVD"></div>
