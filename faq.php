@@ -1,4 +1,4 @@
-6534534543543534543!!
+
 <?$n_page=7;
 require "include/header.php";
 ?>
